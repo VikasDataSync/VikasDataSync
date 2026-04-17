@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vikas Singh
 
-<h3 align="center">🚀 MLOps Engineer | Building Scalable Machine Learning Systems</h3>
+<h3 align="center">🚀 Data Scinec | MLOps Engineer | Building Scalable Machine Learning Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=End-to-End+ML+Pipelines;MLOps+%7C+CI%2FCD+%7C+Docker+%7C+DVC;Production+Ready+Machine+Learning;Always+Learning+%26+Building" />
