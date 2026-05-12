@@ -1,63 +1,89 @@
 # 👋 Hi, I'm Vikas Singh
 
-<h3 align="center">🚀 Data Scinec | MLOps Engineer | Building Scalable Machine Learning Systems</h3>
+<h3 align="center">🚀 Data Science | MLOps Engineer | Building Scalable & Production-Ready ML Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=End-to-End+ML+Pipelines;MLOps+%7C+CI%2FCD+%7C+Docker+%7C+DVC;Production+Ready+Machine+Learning;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=800&lines=End-to-End+ML+Pipelines;MLOps+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Production-Ready+Machine+Learning+Systems;Monitoring+%7C+Observability+%7C+Automation;Always+Learning+%26+Building" />
 </p>
 
 ---
 
 ## 💡 About Me
 
-I design and build **production-ready machine learning systems** with a strong focus on **automation, scalability, and reproducibility**.
+I design and build **production-ready machine learning systems** with a strong focus on **automation, scalability, reproducibility, and deployment**.
 
 * 🔧 Specialized in **MLOps & ML System Design**
-* ⚙️ Experience with **CI/CD pipelines, Docker, and experiment tracking**
-* 📊 Strong in **Machine Learning, Data Processing & Feature Engineering**
-* 🌱 Exploring **advanced deployment & cloud-native ML workflows**
+* ⚙️ Experience with **CI/CD pipelines, Docker, MLflow, and DVC**
+* 📊 Strong foundation in **Machine Learning, Data Processing & Feature Engineering**
+* 🚀 Exploring **Kubernetes, Monitoring, and Cloud-Native ML Workflows**
+* 🤖 Interested in **LLMs, AI Infrastructure, and Scalable AI Systems**
 
 ---
 
 ## ⚡ What I Focus On
 
-* Building **end-to-end ML pipelines (data → deployment)**
+* Building **end-to-end ML pipelines (data → deployment → monitoring)**
 * Automating workflows using **CI/CD & MLOps tools**
 * Creating **scalable and production-grade ML systems**
+* Implementing **monitoring and observability for ML applications**
+* Learning modern **AI deployment and infrastructure workflows**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Core
+### 👨‍💻 Programming & Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql" />
+  <img src="https://skillicons.dev/icons?i=python,sql,git,linux" />
 </p>
 
-### 🤖 Machine Learning
+* Pandas • NumPy • Feature Engineering • Data Processing • EDA
+
+---
+
+### 🤖 Machine Learning & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
 </p>
 
-* Pandas • NumPy • Feature Engineering • Model Evaluation
+* Model Training • Model Evaluation • Hyperparameter Tuning
+* Classification • Regression • Time-Series Forecasting
 
-### ⚙️ MLOps & Tools
+---
+
+### ⚙️ MLOps & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
 </p>
 
-* DVC • MLflow • Git • Pipeline Automation
+* MLflow • DVC • CI/CD • Pipeline Automation
+* Dockerized Workflows • Experiment Tracking
+* Monitoring & Observability
 
-### ☁️ Deployment
+---
+
+### 📈 Monitoring & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
-* REST APIs • CI/CD • Scalable Deployment
+* Prometheus • Grafana • System Monitoring
+* Metrics Collection • Observability Concepts
+
+---
+
+### ☁️ Deployment & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,aws" />
+</p>
+
+* REST APIs • FastAPI • Model Deployment
+* Scalable Deployment Workflows
 
 ---
 
@@ -65,21 +91,37 @@ I design and build **production-ready machine learning systems** with a strong f
 
 ### 🚗 [Vehicle Price Prediction (MLOps Pipeline)](https://github.com/VikasDataSync/MLops-project-1)
 
-* Built end-to-end ML pipeline (**data ingestion → validation → training → deployment**)
-* Integrated **DVC, MLflow, and CI/CD (GitHub Actions)**
-* Dockerized for reproducibility and scalability
+* Built an end-to-end ML pipeline (**data ingestion → validation → training → deployment**)
+* Integrated **DVC, MLflow, and CI/CD using GitHub Actions**
+* Dockerized the workflow for reproducibility and scalability
+* Focused on modular and production-ready architecture
+
+---
 
 ### 📈 [Demand Forecasting System](https://github.com/VikasDataSync/Demand-Forecasting)
 
-* Developed time-series forecasting pipeline
-* Implemented **feature engineering and model evaluation workflow**
-* Designed for real-world scalability
+* Developed a time-series forecasting pipeline
+* Implemented **feature engineering and model evaluation workflows**
+* Designed with scalability and maintainability in mind
+
+---
 
 ### 📊 [Telco Churn Prediction](https://github.com/VikasDataSync/Telco-Churn-Prediction)
 
-* Built classification model for churn prediction
+* Built a classification model for customer churn prediction
 * Applied **EDA, feature selection, and hyperparameter tuning**
-* Focused on actionable business insights
+* Focused on actionable business insights and model performance
+
+---
+
+## 📚 Currently Learning
+
+* Kubernetes for ML deployment
+* Prometheus & Grafana monitoring stack
+* Advanced CI/CD workflows
+* Cloud-native ML systems
+* LLM applications & AI infrastructure
+* Scalable deployment architectures
 
 ---
 
@@ -95,11 +137,16 @@ I design and build **production-ready machine learning systems** with a strong f
 
 ---
 
-## 🎯 What Makes Me Valuable
+## 🎯 Engineering Mindset
 
-* ✔️ Strong understanding of **ML lifecycle (data → training → deployment → monitoring)**
-* ✔️ Experience building **production-grade ML systems**
-* ✔️ Focus on **clean, scalable, and maintainable architecture**
+I enjoy building scalable and reproducible ML systems with a focus on:
+
+* ✔️ Automation & CI/CD
+* ✔️ Scalable ML pipelines
+* ✔️ Containerized deployments
+* ✔️ Monitoring & observability
+* ✔️ Clean and maintainable architecture
+* ✔️ Production-oriented engineering practices
 
 ---
 
